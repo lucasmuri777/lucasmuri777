@@ -8,7 +8,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmuri777&layout=compact&theme=synthwave)
 
-### Tecnologias que eu uso no meus dia
+### Tecnologias que eu uso nos meus dia
 
 <div style="display: inline-block">
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" align="center">
